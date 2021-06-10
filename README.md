@@ -1,1 +1,1 @@
-# static-websites
+# my codixlab project
